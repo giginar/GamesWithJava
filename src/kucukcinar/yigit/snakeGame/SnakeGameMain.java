@@ -1,2 +1,4 @@
-package kucukcinar.yigit.snakeGame;public class SnakeGameMain {
+package kucukcinar.yigit.snakeGame;
+
+public class SnakeGameMain {
 }
